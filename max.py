@@ -7,7 +7,7 @@ for i in range(n):
 
 print(ls)
 
-katta = max(ls)
+kichik = min(ls)
 
-print (katta)
-print ("{0} - o\'rinda turibdi".format(ls.index(katta))) 
+print (kichik)
+print ("{0} - o\'rinda turibdi".format(ls.index(kichik))) 
